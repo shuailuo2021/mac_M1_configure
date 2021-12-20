@@ -4,8 +4,6 @@
 
 官网链接：[Miniconda — Conda documentation](https://docs.conda.io/en/latest/miniconda.html#system-requirements)
 
-![截屏2021-12-20 下午8.07.50](/Users/shuailuo/Desktop/Typora/截屏2021-12-20 下午8.07.50.png)
-
 
 
 ## 2、安装
