@@ -33,7 +33,7 @@ zsh: command not found: conda
 
 解决方法：
 (1) vim ~/.zshrc,没有该文件的话，自动创建一个；
-(2) .zshrc中添加export PATH=/Users/liyuying/miniconda3/bin:$PATH,
+(2) .zshrc中添加export PATH=/Users/###/miniconda3/bin:$PATH,
     /Users/###/miniconda3/bin 为miniconda的安装路径；
 (3) source ~/.zshrc
 ```
