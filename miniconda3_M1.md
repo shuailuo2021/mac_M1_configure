@@ -3,7 +3,8 @@
 ## 1、下载
 
 官网链接：[Miniconda — Conda documentation](https://docs.conda.io/en/latest/miniconda.html#system-requirements)
-![img](https://github.com/shuailuo2021/figures/miniconda_macos_installer.png)
+
+![img](https://github.com/shuailuo2021/mac_M1_configure/figures/miniconda_macos_installer.png)
 
 ## 2、安装
 
